@@ -11,4 +11,4 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser
 
-# You can view a deployed version of the application following the link [GitHub Pages Deploy](https://prykhodchenkomykyta.github.io/user-crud-app)
+## You can view a deployed version of the application following the link [GitHub Pages Deploy](https://prykhodchenkomykyta.github.io/user-crud-app)
